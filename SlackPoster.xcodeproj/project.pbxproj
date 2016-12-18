@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					747F16A51E064A2F000108FF = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = XF9V3GKZ38;
 						ProvisioningStyle = Automatic;
 					};
 					747F16B91E064A2F000108FF = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XF9V3GKZ38;
 				INFOPLIST_FILE = SlackPoster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = practice.SlackPoster;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = XF9V3GKZ38;
 				INFOPLIST_FILE = SlackPoster/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = practice.SlackPoster;
@@ -505,6 +508,7 @@
 				747F16D01E064A2F000108FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		747F16D11E064A2F000108FF /* Build configuration list for PBXNativeTarget "SlackPosterTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +517,7 @@
 				747F16D31E064A2F000108FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		747F16D41E064A2F000108FF /* Build configuration list for PBXNativeTarget "SlackPosterUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +526,7 @@
 				747F16D61E064A2F000108FF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
